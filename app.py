@@ -5,7 +5,7 @@ import markdown
 import os
 
 # Configure Google API
-GOOGLE_API_KEY = "AIzaSyCpDjrKq5lkm3LaW_U3N53IvNbHc4h5cnA"
+GOOGLE_API_KEY = "Enter you API key"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Flask app setup
